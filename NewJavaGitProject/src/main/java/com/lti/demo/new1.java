@@ -1,6 +1,6 @@
 package com.lti.demo;
 
-public class new {
+public class new1 {
 	
 	public static void main(String[] args) {
 		
